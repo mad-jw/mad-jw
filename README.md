@@ -1,6 +1,5 @@
-![cross](https://user-images.githubusercontent.com/84070777/229795670-4352c919-801f-435e-a1ad-959f8d3be07f.png)
 ### Hi there 👋
-
+<img src = "[Your Image Addr](https://user-images.githubusercontent.com/84070777/229795670-4352c919-801f-435e-a1ad-959f8d3be07f.png)" width="30%" height="30%">
 <!--
 
 
